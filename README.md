@@ -16,11 +16,12 @@ oportunidade profissional na área de tecnologia.
 
 🧩 O que estou fazendo agora:
 
-📚 Cursando o 2º semestre de ADS
-🐍 Praticando Python e lógica de programação
-🎨 Estudando UX/UI e prototipação
-🔧 Aprendendo a trabalhar com Git e GitHub
+📚 Cursando o 2º semestre de ADS,
+🐍 Praticando Python e lógica de programação,
+🎨 Estudando UX/UI e prototipação, 
+🔧 Aprendendo a trabalhar com Git e GitHub, 
 💻 Criando projetos para colocar em prática o que estudo
+
 
 
 🛠️ Tecnologias e ferramentas
@@ -31,6 +32,7 @@ Aprendendo: Python · Lógica de programação · UX/UI · Desenvolvimento Web �
 🚀 Projeto em destaque:
 
 👓 My Lens - Em desenvolvimento 
+
 Projeto acadêmico que visa uma solução digital para proporcionar mais transparência, praticidade e autonomia ao cliente, centralizando informações sobre pedidos, etapas de produção, notificações e pagamentos em óticas.
 Principais conceitos trabalhados:
 • UX/UI
@@ -42,8 +44,10 @@ Principais conceitos trabalhados:
 
 
 🌱 O que quero construir daqui para frente:
+
 Meu foco neste momento é aprender fazendo.
 Quero desenvolver projetos cada vez mais completos, entender melhor o processo de desenvolvimento de software e, principalmente, construir uma base que me prepare para minha primeira oportunidade profissional em tecnologia.
 
 💡 "Todo grande projeto começa com uma primeira linha de código."
+
 ⭐ Obrigada por visitar meu perfil!
