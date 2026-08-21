@@ -215,25 +215,6 @@ Projetos desenvolvidos durante minha jornada de aprendizado em programação e l
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhennsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhennsilva&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jhennsilva&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-
-</div>
----
-
 # 📈 Atividade no GitHub
 
 <div align="center">
